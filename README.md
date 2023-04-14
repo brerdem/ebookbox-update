@@ -1,4 +1,4 @@
-<img src="https://ebookbox.app/images/logo.png" width="300" />
+<img src="https://ebookbox.app/images/logo.png" width="400" />
 
 ### Electron Updater
 
